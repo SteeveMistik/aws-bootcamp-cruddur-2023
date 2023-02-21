@@ -7,4 +7,5 @@
     ### I set up a monthly budget
     ![Budget Screenshot](/week_0_pict/AWS Monthly budget.jpg).
     
+<img src="/week_0_pict/AWS Monthly budget.jpg" alt= "Budget Screenshot"/>    
        
