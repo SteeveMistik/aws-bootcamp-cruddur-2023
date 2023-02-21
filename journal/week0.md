@@ -5,6 +5,6 @@
 
 ## I watched the Spend Consideration video by Chirag.
     ### I set up a monthly budget
-    ![Budget Screenshot](/aws-bootcamp-cruddur-2023/journal/week_0_pict/AWS Monthly budget.jpg).
+    ![Budget Screenshot](/week_0_pict/AWS Monthly budget.jpg).
     
        
